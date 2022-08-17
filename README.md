@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Baptista</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+<h4 align="center">Check my portfolio right <a href="https://portfolio-ericckm.vercel.app/" target="_blank">here</a></h4>
 
 - 🔭 I’m currently working on **React and Node**
 
