@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React and Node**
 
-- 🌱 I’m currently learning **Nextjs, Typescript, Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
