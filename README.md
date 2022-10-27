@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Projects that matter to people**
 
 - 🤝 I’m looking for help with **Coding and mentoring**
 
