@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React and Node**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and Next**
 
 - 👯 I’m looking to collaborate on **Projects that matter to people**
 
