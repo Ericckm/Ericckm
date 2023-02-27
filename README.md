@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Projects that matter to people**
 
-- 🤝 I’m looking for help with **Coding and mentoring**
-
 - 📫 How to reach me **ericckm@outlook.com.br**
 
 - ⚡ Fun fact **I love coffee**
