@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ericckm@outlook.com.br**
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I addicted to coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
