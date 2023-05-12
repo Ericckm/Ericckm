@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <h4 align="center">Check my portfolio <a target="_blank" href="https://portfolio-ericckm.vercel.app/">here</a></h4>
 
-- 🔭 I’m currently working on **React and JQUERY**
+- 🔭 I’m currently working on **React and JQuery**
 
 - 🌱 I’m currently learning **Typescript**
 
