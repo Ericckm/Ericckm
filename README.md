@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **React and JQuery**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 I’m looking to collaborate on **Projects that matter to people**
 
 - 📫 How to reach me **ericckm@outlook.com.br**
 
-- ⚡ Fun fact **I addicted to coffee**
+- ⚡ Fun fact **I'm addicted to coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
